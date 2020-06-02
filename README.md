@@ -6,7 +6,9 @@ multi classification with CNN
 数据预处理: 图片标准化,图片增广
 
 网络框架  Resnet101 
+
 分类器  Softmax + 交叉熵
+
 优化器  ADAM
 
 
